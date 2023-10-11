@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Heverton Lima
-- 👀 I’m interested in Development, tecnologie, principals and people.
+- 👀 I’m interested in development, tecnologie, principals and people.
 - 🌱 I’m currently learning Marching Learning and Data Analisys
 - 💞️ I’m looking to collaborate on brasilian enterprises to optimize they data driven decisions
 - 📫 How to reach me heverton.v.lima@gmail.com
